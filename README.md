@@ -4,17 +4,17 @@
 
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+	  ...
+	  maven { url 'https://jitpack.io' }
 	}
-	```
-	> Step 2. Add the dependency
-	```gradle
+      }
+      ```
+      > Step 2. Add the dependency
+      ```gradle
 	dependencies {
 		implementation 'com.github.User:Repo:Tag'
-	}
-	```
+      }
+      ```
   
   
