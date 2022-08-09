@@ -13,9 +13,9 @@ allprojects {
       
 > Step 2. Add the dependency
       
-      ```gradle
+```gradle
 	dependencies {
-			        implementation 'com.github.SahinKapan:SahinTrialLibrary:Tag'
+		implementation 'com.github.SahinKapan:SahinTrialLibrary:Tag'
 
       }
       ```
