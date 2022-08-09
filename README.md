@@ -15,7 +15,8 @@ allprojects {
       
       ```gradle
 	dependencies {
-		implementation 'com.github.User:Repo:Tag'
+			        implementation 'com.github.SahinKapan:SahinTrialLibrary:Tag'
+
       }
       ```
   
